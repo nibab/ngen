@@ -1,0 +1,36 @@
+- label: Getting Started
+  items:
+    - name: Installation
+      link: /docs/getting-started/installation/
+    - name: Configuration
+      link: /configuration/
+    - name: Getting Started
+      link: /getting_started/
+- label: Connectors
+  items:
+    - name: Network Drive
+      link: #
+    - name: Sharepoint
+      link: #
+    - name: Azure DevOps
+      link: #
+- label: Finetuning
+  items:
+- label: Code Search
+  items:
+    - name: livegrep
+      link: #
+    - name: Semantic Code Search
+      link: #
+- label: Text Search
+  items:
+    - name: Semantic Text Search
+- label: Toolgen
+  items:
+    - name: Getting Started
+      link: #
+    - name: Scraping
+      link: #
+    - name: Agent Configuration
+      link: #
+

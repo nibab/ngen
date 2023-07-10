@@ -1,0 +1,9 @@
+<section class="{% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary">
+    <div class="{% if page.hero_darken %} hero-darken {% endif %}">
+        <div class="container">
+            <!-- <h1 class="title is-2">BUG</h1> -->
+            <img src="{{ page.hero_image | relative_url }}" style="display:block; margin-left:auto; margin-right:auto; height:300px"></img>
+            
+        </div>
+    </div>
+</section>
